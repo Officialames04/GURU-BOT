@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['255699457822', 'HAMES', true],
-  ['255699457822', 'AMES', true], 
+  ['255775485175', 'HAMES', true], 
   [''] 
 ] //Number of owners
 
@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'HAMES-LOTTIN✅️'
+global.botname = 'GURU-bot'
 global.premium = 'true'
-global.packname = 'HAMES┃ᴮᴼᵀ' 
-global.author = '@Hameslottin' 
+global.packname = 'PH♧NT♤MC♧RSH' 
+global.author = 'PH♧NT♤MC♧RSH' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
